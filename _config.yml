@@ -22,8 +22,8 @@ title: Drock Blog
 email: your-email@example.com
 description: >- 
   Blog o programowaniu
-baseurl: "drock.engineer"
-url: "drock.engineer"
+baseurl: ""
+url: ""
 twitter_username: jekyllrb
 github_username:  Drockk
 
